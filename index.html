@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Interactivo</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Quiz Interactivo</h1>
+    </header>
+    <main>
+        <section id="quiz">
+            <div id="pregunta"></div>
+            <div id="opciones"></div>
+            <button id="siguiente" disabled>Siguiente</button>
+        </section>
+        <section id="resultado" style="display: none;">
+            <h2>Resultados</h2>
+            <p id="calificacion"></p>
+        </section>
+        <div id="progreso">
+            <div id="progreso-llenado"></div>
+        </div>
+        <div id="temporizador">Tiempo restante: <span id="tiempo">10</span> segundos</div>
+        <div id="mensaje-tiempo" style="color: red; font-weight: bold; margin-top: 10px;"></div>
+
+
+    </main>
+</body>
+</html>

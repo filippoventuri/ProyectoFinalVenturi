@@ -1,0 +1,55 @@
+{
+    "preguntas": [
+      {
+        "texto": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": ["Júpiter", "Saturno", "Neptuno", "Urano"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "texto": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1914", "1939", "1945", "1929"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "texto": "¿Qué país tiene la forma de una bota?",
+        "opciones": ["España", "Italia", "Grecia", "Turquía"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "texto": "¿Qué elemento tiene el símbolo químico 'O'?",
+        "opciones": ["Oro", "Oxígeno", "Osmio", "Óxido"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "texto": "¿Qué artista pintó 'La última cena'?",
+        "opciones": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Miguel Ángel"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "texto": "¿Cuántos lados tiene un hexágono?",
+        "opciones": ["5", "6", "7", "8"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "texto": "¿Quién escribió 'Cien años de soledad'?",
+        "opciones": ["Gabriel García Márquez", "Jorge Luis Borges", "Mario Vargas Llosa", "Julio Cortázar"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "texto": "¿Cuál es la capital de Australia?",
+        "opciones": ["Sídney", "Melbourne", "Canberra", "Brisbane"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "texto": "¿Qué animal es conocido como 'el rey de la selva'?",
+        "opciones": ["Tigre", "León", "Elefante", "Jaguar"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "texto": "¿Qué continente es el más grande?",
+        "opciones": ["África", "Asia", "América", "Europa"],
+        "respuestaCorrecta": 1
+      }
+    ]
+  }
+  
